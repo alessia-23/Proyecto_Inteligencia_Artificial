@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/Video-Ver%20Demo-pink?style=for-the-badge&logo=vimeo">
 </a>
 
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Gamma-Presentaci%C3%B3n-blue?style=for-the-badge&logo=gamma&logoColor=white">
+<a href="https://gamma.app/docs/Sistema-de-Analisis-de-Sentimientos-con-IA-oi7fytolio4lfhl" target="_blank">
+  <img src="https://img.shields.io/badge/Gamma-Presentación-blue?style=for-the-badge&logo=gamma&logoColor=white">
 </a>
+
