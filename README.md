@@ -1,5 +1,3 @@
-# ProyectoIA_ANALIZADOR DE SENTIMIENTOS
-
 <div align="center">
 
 # 📊 ANALIZADOR DE SENTIMEINTOS
