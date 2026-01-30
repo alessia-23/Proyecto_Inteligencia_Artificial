@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚡 EL OJO  
+# 👁️ EL OJO  
 ### Proyecto de IA – Segundo Bimestre  
 
 </div>
