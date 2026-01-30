@@ -55,5 +55,5 @@
 </a>
 
 <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Canva-Presentación-purple?style=for-the-badge&logo=canva">
+  <img src="https://img.shields.io/badge/Gamma-Presentaci%C3%B3n-blue?style=for-the-badge&logo=gamma&logoColor=white">
 </a>
