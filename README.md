@@ -34,14 +34,14 @@
 
 ## 🚀 Funcionalidades
 
-🤖 Interacción tipo chatbot mediante preguntas y respuestas.
-🧠 Inferencia lógica para deducir el elemento pensado por el usuario.
-🗂️ Clasificación de elementos en frutas y deportes.
-❓ Generación de preguntas estratégicas y claras.
-🔁 Manejo de respuestas ambiguas del usuario.
-🎯 Predicción del resultado en pocos intentos.
-🎮 Experiencia interactiva, intuitiva y entretenida.
-📚 Aplicación educativa de lógica e inteligencia artificial básica.
+- 🤖 Interacción tipo chatbot mediante preguntas y respuestas.
+- 🧠 Inferencia lógica para deducir el elemento pensado por el usuario.
+- 🗂️ Clasificación de elementos en frutas y deportes.
+- ❓ Generación de preguntas estratégicas y claras.
+- 🔁 Manejo de respuestas ambiguas del usuario.
+- 🎯 Predicción del resultado en pocos intentos.
+- 🎮 Experiencia interactiva, intuitiva y entretenida.
+- 📚 Aplicación educativa de lógica e inteligencia artificial básica.
 
 ---
 
